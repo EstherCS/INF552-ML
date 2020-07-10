@@ -1,0 +1,24 @@
+(Occupied, Price, Music, Location, VIP, Favorite Beer)
+
+01: Moderate, Cheap, Loud, City-Center, No, No;
+01: High, Expensive, Loud, Talpiot, No, No;
+02: High, Expensive, Loud, City-Center, Yes, No;
+03: Moderate, Normal, Quiet, City-Center, No, Yes;
+04: Moderate, Expensive, Quiet, German-Colony, No, No;
+05: Moderate, Expensive, Quiet, German-Colony, Yes, Yes;
+06: Moderate, Normal, Quiet, Ein-Karem, No, No;
+07: Low, Normal, Quiet, Ein-Karem, No, No;
+08: Moderate, Cheap, Loud, Mahane-Yehuda, No, No;
+09: High, Expensive, Loud, City-Center, Yes, Yes;
+10: Low, Cheap, Quiet, City-Center, No, No;
+11: Moderate, Cheap, Loud, Talpiot, No, Yes;
+12: Low, Cheap, Quiet, Talpiot, Yes, Yes;
+13: Moderate, Expensive, Quiet, Mahane-Yehuda, No, Yes;
+14: High, Normal, Loud, Mahane-Yehuda, Yes, Yes;
+15: Moderate, Normal, Loud, Ein-Karem, No, Yes;
+16: High, Normal, Quiet, German-Colony, No, No;
+17: High, Cheap, Loud, City-Center, No, Yes;
+18: Low, Normal, Quiet, City-Center, No, No;
+19: Low, Expensive, Loud, Mahane-Yehuda, No, No;
+20: Moderate, Normal, Quiet, Talpiot, No, No;
+22: Low, Cheap, Loud, Ein-Karem, Yes, Yes;
